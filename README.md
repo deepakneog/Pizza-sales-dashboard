@@ -27,3 +27,6 @@ The objective of this project is to use SQL and Power BI to analyze and visualiz
 •	July is the highest revenue month<br>
 •	Classic and Supreme pizzas are popular<br>
 •	Large pizzas contribute maximum sales
+
+![pizza_dashboard](https://github.com/deepakneog/Pizza-sales-dashboard/assets/49859083/8aa15966-91e2-4d71-b7dd-c8ff475c6f89)
+
